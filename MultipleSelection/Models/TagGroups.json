@@ -1,0 +1,164 @@
+[
+	[{
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+		"TITLE": "Books",
+        "IsEnable": "1"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Business"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Catalogues"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Education"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Finance"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Food & Drink"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": false,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Games"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Health & Fitness"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Kids"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Lifestyle"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Medical"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Music"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Navigation"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": false,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "News"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": false,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Magazines & Newspapers"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Photo & Video"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": false,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Productivity"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Reference"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Shopping"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Social Networking"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Travel"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Utilities"
+	}, {
+		"URL": "http:\/\/appstore.com",
+		"COLOR": "0x65CDA3",
+		"ENABLED": true,
+		"CATEGORY": "App Store",
+        "IsEnable": "1",
+		"TITLE": "Weather"
+	}]
+]

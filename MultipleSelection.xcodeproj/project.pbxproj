@@ -14,6 +14,11 @@
 		8F1973DF223B71D1000D3595 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F1973DD223B71D1000D3595 /* LaunchScreen.storyboard */; };
 		8F1973EA223B71D1000D3595 /* MultipleSelectionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1973E9223B71D1000D3595 /* MultipleSelectionTests.swift */; };
 		8F1973F5223B71D1000D3595 /* MultipleSelectionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1973F4223B71D1000D3595 /* MultipleSelectionUITests.swift */; };
+		8F197409223B770B000D3595 /* TagGroups.json in Resources */ = {isa = PBXBuildFile; fileRef = 8F197403223B770B000D3595 /* TagGroups.json */; };
+		8F19740A223B770B000D3595 /* AHTagsLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F197405223B770B000D3595 /* AHTagsLabel.swift */; };
+		8F19740B223B770B000D3595 /* AHTagTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8F197406223B770B000D3595 /* AHTagTableViewCell.xib */; };
+		8F19740C223B770B000D3595 /* AHTagTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F197407223B770B000D3595 /* AHTagTableViewCell.swift */; };
+		8F19740D223B770B000D3595 /* AHTagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F197408223B770B000D3595 /* AHTagView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +52,11 @@
 		8F1973F0223B71D1000D3595 /* MultipleSelectionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MultipleSelectionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F1973F4223B71D1000D3595 /* MultipleSelectionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSelectionUITests.swift; sourceTree = "<group>"; };
 		8F1973F6223B71D1000D3595 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F197403223B770B000D3595 /* TagGroups.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TagGroups.json; sourceTree = "<group>"; };
+		8F197405223B770B000D3595 /* AHTagsLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AHTagsLabel.swift; sourceTree = "<group>"; };
+		8F197406223B770B000D3595 /* AHTagTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AHTagTableViewCell.xib; sourceTree = "<group>"; };
+		8F197407223B770B000D3595 /* AHTagTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AHTagTableViewCell.swift; sourceTree = "<group>"; };
+		8F197408223B770B000D3595 /* AHTagView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AHTagView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +107,8 @@
 		8F1973D3223B71C0000D3595 /* MultipleSelection */ = {
 			isa = PBXGroup;
 			children = (
+				8F197402223B770B000D3595 /* Models */,
+				8F197404223B770B000D3595 /* Views */,
 				8F1973D4223B71C0000D3595 /* AppDelegate.swift */,
 				8F1973D6223B71C0000D3595 /* ViewController.swift */,
 				8F1973D8223B71C0000D3595 /* Main.storyboard */,
@@ -123,6 +135,25 @@
 				8F1973F6223B71D1000D3595 /* Info.plist */,
 			);
 			path = MultipleSelectionUITests;
+			sourceTree = "<group>";
+		};
+		8F197402223B770B000D3595 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				8F197403223B770B000D3595 /* TagGroups.json */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		8F197404223B770B000D3595 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				8F197405223B770B000D3595 /* AHTagsLabel.swift */,
+				8F197406223B770B000D3595 /* AHTagTableViewCell.xib */,
+				8F197407223B770B000D3595 /* AHTagTableViewCell.swift */,
+				8F197408223B770B000D3595 /* AHTagView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,7 +262,9 @@
 			files = (
 				8F1973DF223B71D1000D3595 /* LaunchScreen.storyboard in Resources */,
 				8F1973DC223B71D1000D3595 /* Assets.xcassets in Resources */,
+				8F197409223B770B000D3595 /* TagGroups.json in Resources */,
 				8F1973DA223B71C0000D3595 /* Main.storyboard in Resources */,
+				8F19740B223B770B000D3595 /* AHTagTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,6 +291,9 @@
 			files = (
 				8F1973D7223B71C0000D3595 /* ViewController.swift in Sources */,
 				8F1973D5223B71C0000D3595 /* AppDelegate.swift in Sources */,
+				8F19740D223B770B000D3595 /* AHTagView.swift in Sources */,
+				8F19740A223B770B000D3595 /* AHTagsLabel.swift in Sources */,
+				8F19740C223B770B000D3595 /* AHTagTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
